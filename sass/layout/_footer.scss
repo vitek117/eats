@@ -1,0 +1,19 @@
+.footer {
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.footer__icon {
+}
+.footer__text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 1.5;
+  text-align: right;
+  letter-spacing: 0.1px;
+  color: #5c5c5c;
+}
